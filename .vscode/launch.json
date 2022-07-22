@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+
+
+        {
+            "name": "online_community_mobile_application",
+            "cwd": "online_community_mobile_application",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                    "--no-sound-null-safety"
+                ]
+        },
+
+        {
+            "name": "online_community_mobile_application",
+            "cwd": "online_community_mobile_application",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--no-sound-null-safety"
+            ]
+        },
+        {
+            "name": "online_community_mobile_application (profile mode)",
+            "cwd": "online_community_mobile_application",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "args": [
+                "--no-sound-null-safety"
+            ]
+        },
+        {
+            "name": "online_community_mobile_application (release mode)",
+            "cwd": "online_community_mobile_application",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "args": [
+                "--no-sound-null-safety"
+            ]
+        }
+    ]
+}
